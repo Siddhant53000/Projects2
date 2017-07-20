@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaceBook/ViewController.swift"
+            timestampString = "516070690.628133"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UPLIFT.ViewController.loginButton.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.FBSDKLoginButton&gt;"
+                  moduleName = "UPLIFT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddizie/Desktop/UPLIFTproject/FaceBook/ViewController.swift"
+                  timestampString = "515798202.271779"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UPLIFT.ViewController.loginButton.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.FBSDKLoginButton&gt;"
+                  moduleName = "UPLIFT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddizie/Desktop/UPLIFTproject/FaceBook/ViewController.swift"
+                  timestampString = "515798202.273565"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UPLIFT.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; UPLIFT.ViewController"
+                  moduleName = "UPLIFT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddizie/Desktop/UPLIFTproject/FaceBook/ViewController.swift"
+                  timestampString = "515798202.27523"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "339">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UPLIFT.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;UPLIFT.ViewController&gt;"
+                  moduleName = "UPLIFT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddizie/Desktop/UPLIFTproject/FaceBook/ViewController.swift"
+                  timestampString = "515798202.277168"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "238">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaceBook/ViewController.swift"
+            timestampString = "516070690.628133"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
