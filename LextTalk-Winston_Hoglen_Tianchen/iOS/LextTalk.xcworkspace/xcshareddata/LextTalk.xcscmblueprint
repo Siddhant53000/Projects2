@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9C6007F3B9476DB695499806A00A51A4BE3CD93D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9C6007F3B9476DB695499806A00A51A4BE3CD93D" : 0,
+    "F46C18FC042C96D865D3ACC8E55F00EF0B68ED28" : 0,
+    "F7935647AF4A0FA386D2870296F589D538BBC96D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5AC67D50-9C8C-477D-895C-714293E8A580",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9C6007F3B9476DB695499806A00A51A4BE3CD93D" : "LextTalk\/",
+    "F46C18FC042C96D865D3ACC8E55F00EF0B68ED28" : "tunertool",
+    "F7935647AF4A0FA386D2870296F589D538BBC96D" : "lexttalk"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LextTalk",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOS\/LextTalk.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ebbapp\/LextTalk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9C6007F3B9476DB695499806A00A51A4BE3CD93D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.inqbarna.com:internal\/tunertool-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F46C18FC042C96D865D3ACC8E55F00EF0B68ED28"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.inqbarna.com:internal\/lextalk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F7935647AF4A0FA386D2870296F589D538BBC96D"
+    }
+  ]
+}

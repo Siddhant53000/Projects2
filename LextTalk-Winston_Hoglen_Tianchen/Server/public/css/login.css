@@ -1,0 +1,155 @@
+body,html {
+    margin: 0 5px;
+	font-size: 11pt;
+    font-family: Verdana,sans-serif;
+	height: 100%;
+	
+
+}
+
+h1 {
+    font-size: 1.4em;
+    color:#A9873B;
+}
+a {
+    color:#A9873B;
+}
+
+img {
+	border: none;
+}
+
+/* Table */
+th {
+    text-align: left;
+}
+td, th {
+    padding-right: 5px;
+}
+
+/* style form */
+form {
+	font-size: 10pt;
+	position: relative;
+}
+
+dl {margin:0; padding-top:20px;}
+
+form dd {
+	/*margin-top: 10px;
+    margin-left: 20px;
+    float: left;   */
+/*	position:absolute;*/
+	text-align:center;
+	margin:0 0 0px 0px; padding:0;
+}
+
+form dt {
+	/*margin-top: 12px;*/
+  /*  width: 200px;*/
+ /*   display: block;*/
+ /*  float: left;*/
+   /* clear: left;*/
+	color: grey;
+	padding-top: 3px;
+	padding-bottom: 5px;
+}
+
+form dt{	
+	/*position:absolute;*/
+	width: 100%;
+	text-align:center;
+	/*margin-top: 12px;
+    width: 200px;
+    float: left;
+    clear: left;
+	color: grey;
+	text-align:right;*/
+}
+
+form dd input, textarea, select {
+	border:1px solid #A9873B;
+	margin:0 auto;
+	width: 200px;
+	
+}
+
+form #submitbutton {
+    margin-left: 100px;
+}
+
+/* classes */
+
+/*.formFieldLong {
+  width: 600px;
+}*/
+
+/*.formFieldShort {
+  width: 200px;
+}*/
+
+
+.errors {
+  font-size: 10pt;
+  /*background-color: red*/;
+  color: red;
+  text-align: center;
+  padding-top: 15px;
+ /* position: absolute;
+  top: 0;*/
+}
+
+.login {
+  position: absolute;
+ /* top: 0;*/
+  right: 0;
+ /* bottom: 0;*/
+  left: 0;
+  width: 400px;
+  height: 200px;
+  margin: auto;
+  margin-top: 150px;
+
+  border: 1px solid #E9E7D7;
+  background-color: #FFF;
+}
+
+dd, dt.login{
+  
+}
+
+#logo {
+	padding-top: 15px;
+	position: relative;
+}
+
+#page {
+	margin:0 auto;
+	width:940px;
+	padding-bottom: 30px;
+}
+
+#pageContent {
+	border: 1px solid #E9E7D7;
+  	background-color: #FFF;
+}
+
+#content {
+	/*padding: 0 25px;*/
+	padding: 0 25px;
+}
+
+#logged-in {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 220px;
+
+  /*  position: relative;
+    top: 10;
+    right: 20;
+    width: 220px;*/
+  
+ /* height: 20px;*/
+ /* margin: auto;*/
+}

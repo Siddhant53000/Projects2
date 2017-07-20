@@ -1,0 +1,713 @@
+// Strings file generated with App Translator 1.2
+// Project: Lext Talk
+// Language: en
+// Date: lun oct 26 21:08:38 2015
+
+/* %@ did not make its location available to LextTalk yet. */
+"%@ did not make its location available to LextTalk yet."="%@ did not make its location available to LextTalk yet.";
+
+/* No comment provided by engineer. */
+"%d"="%d";
+
+/* %d Km */
+"%d Km"="%d Km";
+
+/* %d Translations! */
+"%d Translations!"="%d Translations!";
+
+/* %d accesses */
+"%d accesses"="%d accesses";
+
+/* %d followers (%2.1f\%%) */
+"%d followers (%2.1f\%%)"="%1$d followers (%2$.1f\%%)";
+
+/* %d message */
+"%d message"="%d message";
+
+/* %d messages */
+"%d messages"="%d messages";
+
+/* %d messages (%d unread) */
+"%d messages (%d unread)"="%1$d messages (%2$d unread)";
+
+/* No comment provided by engineer. */
+"%d user"="%d user";
+
+/* No comment provided by engineer. */
+"%d users"="%d users";
+
+/* No comment provided by engineer. */
+"(new) %d"="(new) %d";
+
+/* No comment provided by engineer. */
+"+FB"="+FB";
+
+/* Added! */
+"Added!"="Added!";
+
+/* All */
+"All"="All";
+
+/* No comment provided by engineer. */
+"Already have\nan account"="Already have\nan account";
+
+/* No comment provided by engineer. */
+"Already purchased!"="Already purchased!";
+
+/* No comment provided by engineer. */
+"An e-mail with a new password has been sent to you. You should receive it in a few moments"="A new password has been sent to your email account.";
+
+/* No comment provided by engineer. */
+"Are you learning or do you speak Catalan?"="Are you learning or do you speak Catalan?";
+
+/* Are you sure ? */
+"Are you sure ?"="Are you sure ?";
+
+/* Profile */
+"Block user"="Block user";
+
+/* No comment provided by engineer. */
+"Blocking user..."="Blocking user...";
+
+/* Cancel */
+"Cancel"="Cancel";
+
+/* Cannot compose an email */
+"Cannot compose an email"="Cannot compose an email";
+
+/* Cannot share by email */
+"Cannot share by email"="Cannot share by email";
+
+/* Chat configuration */
+"Chat configuration"="Chat configuration";
+
+/* Chat rooms */
+"Chat rooms"="Chat rooms";
+
+/* Chat with %@ */
+"Chat with %@"="%@";
+
+/* Chatroom language */
+"Chatroom language"="Chatroom language";
+
+/* Chats */
+"Chats"="Chats";
+
+/* No comment provided by engineer. */
+"Chats & Chatrooms"="Chats";
+
+/* Choose name, lang */
+"Choose name, lang"="Choose name, lang";
+
+/* Choose one */
+"Choose one"="Choose one";
+
+/* Close */
+"Close"="Close";
+
+/* No comment provided by engineer. */
+"Complete your profile!"="Complete your profile!";
+
+/* Configuration */
+"Configuration"="Configuration";
+
+/* No comment provided by engineer. */
+"Configure Twitter!"="Configure Twitter!";
+
+/* Sign up */
+"Connect Later"="Connect Later";
+
+/* No comment provided by engineer. */
+"Connect to Facebook"="Connect to Facebook";
+
+/* No comment provided by engineer. */
+"Contacts"="Contacts";
+
+/* No comment provided by engineer. */
+"Continue"="Continue";
+
+/* Could not process the request */
+"Could not process the request"="Could not process the request";
+
+/* Creating... */
+"Creating..."="Creating...";
+
+/* Profile */
+"DELETE PROFILE"="DELETE PROFILE";
+
+/* Data not available */
+"Data not available"="Data not available";
+
+/* Delete */
+"Delete"="Delete";
+
+/* Delete chat with %@ */
+"Delete chat with %@"="Delete chat with %@";
+
+/* No comment provided by engineer. */
+"Deleting user..."="Deleting user...";
+
+/* No comment provided by engineer. */
+"Detecting language..."="Detecting language...";
+
+/* Dictionaries */
+"Dictionaries"="Dictionaries";
+
+/* No comment provided by engineer. */
+"Do you really wish to delete your profile?"="Do you really wish to delete your profile?";
+
+/* Done! */
+"Done!"="Done!";
+
+/* email for sign up */
+"E-Mail"="E-Mail";
+
+/* Profile */
+"EDIT PROFILE"="EDIT PROFILE";
+
+/* No comment provided by engineer. */
+"Edit"="Edit";
+
+/* No comment provided by engineer. */
+"Error"="Error";
+
+/* No comment provided by engineer. */
+"Error or Facebook app  not installed!"="Error or Facebook app not installed!";
+
+/* Events */
+"Events"="Events";
+
+/* No comment provided by engineer. */
+"Facebook app  not installed!"="Facebook app not installed!";
+
+/* No comment provided by engineer. */
+"Fill in the e-mail you used to sign up. An e-mail with a new password will be sent to that e-mail"="Fill in the e-mail you used to sign up. An e-mail with a new password will be sent to that e-mail";
+
+/* No comment provided by engineer. */
+"Fill in your e-mail"="Fill in your email";
+
+/* No comment provided by engineer. */
+"Filter"="Filter";
+
+/* No comment provided by engineer. */
+"Find your friends!"="Find your friends!";
+
+/* No comment provided by engineer. */
+"Finding who in your contacts  are using Lext Talk requires permission. You can authorise Lext Talk to do that in your device settings: Privacy / Contacts"="Lext Talk needs access to your contacts so it's easier for you to chat with them. You can authorize it in Settings/Privacy/Contacts";
+
+/* No comment provided by engineer. */
+"GPS not available"="GPS not available";
+
+/* Sign up */
+"Get Started"="Get Started";
+
+/* Sign up */
+"Get Started with Facebook"="Get Started with Facebook";
+
+/* Sign in */
+"Get Started?"="Get Started?";
+
+/* Getting audio file... */
+"Getting audio file..."="Getting audio file...";
+
+/* Getting chatrooms... */
+"Getting chatrooms..."="Getting chatrooms...";
+
+/* No comment provided by engineer. */
+"Getting user profile..."="Getting user profile...";
+
+/* Sign up */
+"Have an account?"="Have an account?";
+
+/* No comment provided by engineer. */
+"Hide keyboard"="Hide keyboard";
+
+/* No comment provided by engineer. */
+"I'd like to create\nan account"="I'd like to create\nan account";
+
+/* No comment provided by engineer. */
+"Invalid product"="Invalid product";
+
+/* No comment provided by engineer. */
+"Invalid transaction"="Invalid transaction";
+
+/* No comment provided by engineer. */
+"Join"="Join";
+
+/* No comment provided by engineer. */
+"Joined chat rooms"="Joined chat rooms";
+
+/* Just the map */
+"Just the map"="Just the map";
+
+/* Language */
+"Language"="Language";
+
+/* Languages */
+"Languages"="Languages";
+
+/* No comment provided by engineer. */
+"Last con on: %@"="Last conn on: %@";
+
+/* No comment provided by engineer. */
+"Last connection on: "="Last connection on: ";
+
+/* Last update: %@ */
+"Last update: %@"="Last update: %@";
+
+/* Learning */
+"Learning"="Learning";
+
+/* No comment provided by engineer. */
+"Learning Languages"="I'm learning";
+
+/* No comment provided by engineer. */
+"Learning languages with Lext Talk is great!"="Learning languages with Lext Talk is great!";
+
+/* No comment provided by engineer. */
+"Leave"="Leave";
+
+/* LextTalk Help */
+"LextTalk Help"="LextTalk Help";
+
+/* LextTalk server error */
+"LextTalk server error"="LextTalk server error";
+
+/* LextTalk would like to use your location to place you on the map */
+"LextTalk would like to use your location to place you on the map"="LextTalk would like to use your location to place you on the map";
+
+/* LextTalk would like to use your location to place you on the map. Later, in your propile, you can choose a place from a map where you will be shown if you prefer not to use your real location */
+"LextTalk would like to use your location to place you on the map. Later, in your propile, you can choose a place from a map where you will be shown if you prefer not to use your real location"="LextTalk would like to use your location to place you on the map. Later, in your profile, you can choose a place from a map where you will be shown if you prefer not to use your real location";
+
+/* Load more messages */
+"Load more messages"="Load more messages";
+
+/* Locate */
+"Locate"="Locate";
+
+/* Location unknown */
+"Location unknown"="Location unknown";
+
+/* No comment provided by engineer. */
+"Logging out..."="Logging out...";
+
+/* No comment provided by engineer. */
+"Logging with Facebook..."="Logging in with Facebook...";
+
+/* Logging... */
+"Logging..."="Logging in...";
+
+/* Map */
+"Map"="Map";
+
+/* No comment provided by engineer. */
+"Map does not show your real location"="Map does not show your real location";
+
+/* No comment provided by engineer. */
+"Map shows your real location"="Map shows your real location";
+
+/* More info needed! */
+"More info needed!"="More info needed!";
+
+/* My Profile */
+"My Profile"="My Profile";
+
+/* NO */
+"NO"="NO";
+
+/* Name */
+"Name"="Name";
+
+/* Native */
+"Native"="Native";
+
+/* Network Error */
+"Network Error"="Network Error";
+
+/* Network Error! */
+"Network Error!"="Network Error!";
+
+/* Network error */
+"Network error"="Network error";
+
+/* No comment provided by engineer. */
+"Network error!"="Network error!";
+
+/* No */
+"No"="No";
+
+/* No active chat! */
+"No active chat!"="No active chat!";
+
+/* No comment provided by engineer. */
+"No contacts found"="No contacts found";
+
+/* No internet connection is available */
+"No internet connection is available"="No internet connection is available";
+
+/* No text! */
+"No text!"="No text!";
+
+/* No comment provided by engineer. */
+"None of your contacts seem to be using Lext Talk. Tell them about it!"="We can't find any of your contacts in Lext Talk. Invite them and start talking!";
+
+/* OK */
+"OK"="OK";
+
+/* No comment provided by engineer. */
+"Other chat rooms"="Other chat rooms";
+
+/* Password */
+"Password"="Password";
+
+/* No comment provided by engineer. */
+"Password reset"="New password";
+
+/* No comment provided by engineer. */
+"Permission needed"="Permission needed";
+
+/* No comment provided by engineer. */
+"Play sound"="Play sound";
+
+/* No comment provided by engineer. */
+"Please make sure you have data coverage or wi-fi. Error: %@"="Please make sure you have data coverage or wi-fi. Error: %@";
+
+/* No comment provided by engineer. */
+"Please, enable them in Settings app"="Please, enable them in Settings app";
+
+/* Please, fill in the box with the text you wish to be read */
+"Please, fill in the box with the text you wish to be read"="Please, fill in the box with the text you wish to be read";
+
+/* Please, fill in the box with the text you wish to translate */
+"Please, fill in the box with the text you wish to translate"="Please, fill in the box with the text you wish to translate";
+
+/* Please, select both the laguage you are translating from, and the one you are translating to. */
+"Please, select both the laguage you are translating from, and the one you are translating to."="Please, select both the language you are translating from, and the one you are translating to.";
+
+/* No comment provided by engineer. */
+"Please, select the languages you speak and the ones you are learning"="Please, select the languages you speak and the ones you are learning";
+
+/* Please, translate something before you try to read it */
+"Please, translate something before you try to read it"="Please, translate something before you try to read it";
+
+/* Please, try again in some minutes */
+"Please, try again in some minutes"="Please, try again in some minutes";
+
+/* No comment provided by engineer. */
+"Please, write your username (the one other users will see)."="Please, write your username (the one other users will see)";
+
+/* Problem with the translation service! */
+"Problem with the translation service!"="Problem with the translation service!";
+
+/* No comment provided by engineer. */
+"Profile"="Profile";
+
+/* No comment provided by engineer. */
+"Purchases"="Purchases";
+
+/* No comment provided by engineer. */
+"Purchases are not enabled"="Purchases are not enabled";
+
+/* No comment provided by engineer. */
+"Purchasing remove ads..."="Purchasing remove ads...";
+
+/* No comment provided by engineer. */
+"Quit"="Quit";
+
+/* Register to get full access */
+"Register to get full access"="Register to get full access";
+
+/* No comment provided by engineer. */
+"Remember password"="Forgot your password?";
+
+/* No comment provided by engineer. */
+"Remove"="Remove";
+
+/* No comment provided by engineer. */
+"Remove ads"="Remove ads";
+
+/* No comment provided by engineer. */
+"Restore purchases"="Restore purchases";
+
+/* No comment provided by engineer. */
+"Restoring purchases..."="Restoring purchases...";
+
+/* Restoring session */
+"Restoring session"="Restoring session";
+
+/* Profile */
+"SAVE PROFILE"="SAVE PROFILE";
+
+/* Profile */
+"SELECT"="SELECT";
+
+/* No comment provided by engineer. */
+"Saving profile..."="Saving profile...";
+
+/* Search */
+"Search"="Search";
+
+/* Search Chatrooms */
+"Search Chatrooms"="Search Chatrooms";
+
+/* Search Result */
+"Search Result"="Search Result";
+
+/* Search chat by name */
+"Search chat by name"="Search chat by name";
+
+/* Searching... */
+"Searching..."="Searching...";
+
+/* Select language */
+"Select language"="Select language";
+
+/* Select languages */
+"Select languages"="Select languages";
+
+/* No comment provided by engineer. */
+"Select photo"="Select photo";
+
+/* Select the languages! */
+"Select the languages!"="Select the languages!";
+
+/* Send */
+"Send"="Send";
+
+/* Profile */
+"Send message"="Send message";
+
+/* Sign in */
+"Sign in"="Sign in";
+
+/* Sign in now! */
+"Sign in now!"="Sign in now!";
+
+/* Sign up */
+"Sign up"="Sign up";
+
+/* Sign up */
+"Skip"="Skip";
+
+/* No comment provided by engineer. */
+"Some user details could not be downloaded, please, try again"="Some user details could not be downloaded, please, try again";
+
+/* Speaking */
+"Speaking"="Speaking";
+
+/* No comment provided by engineer. */
+"Speaking Languages"="I speak";
+
+/* Statistics */
+"Statistics"="Statistics";
+
+/* No comment provided by engineer. */
+"Status"="Status";
+
+/* slogan */
+"Talk to the world"="Talk to the world";
+
+/* No comment provided by engineer. */
+"Tell your friends about Lext Talk!"="Tell your friends about Lext Talk!";
+
+/* No comment provided by engineer. */
+"Thanks for removing the ads"="Thanks for removing the ads";
+
+/* No comment provided by engineer. */
+"Thanks for your purchase!"="Thanks for your purchase!";
+
+/* No comment provided by engineer. */
+"The GPS could not be used to center the map around your current position (GPS not found or Lext Talk is not authorised to use it). Please, center the map manually to the location where you will be shown to other users, or change your settings"="The GPS could not be used to center the map around your current position (GPS not found or Lext Talk is not authorised to use it). Please, center the map manually to the location where you will be shown to other users, or change your settings";
+
+/* The operation could not be performed: */
+"The operation could not be performed: "="The operation could not be performed: ";
+
+/* The text could not be read. Try again in a few minutes. The translation servide might be down */
+"The text could not be read. Try again in a few minutes. The translation servide might be down"="The text could not be read. Try again in a few minutes. The translation servide might be down";
+
+/* The text could not be translated. Try again in a few minutes. The translation servide might be down */
+"The text could not be translated. Try again in a few minutes. The translation servide might be down"="The text could not be translated. Try again in a few minutes. The translation servide might be down";
+
+/* No comment provided by engineer. */
+"The user information could not be downloaded"="The user information could not be downloaded";
+
+/* No comment provided by engineer. */
+"The user information for one of your chats could not be downloaded"="The user information for one of your chats could not be downloaded";
+
+/* No comment provided by engineer. */
+"The user profile image could not be downloaded"="The user profile image could not be downloaded";
+
+/* No comment provided by engineer. */
+"The user you are trying to write to has deleted his account"="Ooops! That user is no longer in Lext Talk.";
+
+/* No comment provided by engineer. */
+"The user's profile, whose information you are trying to retrieve, has been deleted."="The user's profile, whose information you are trying to retrieve, has been deleted.";
+
+/* No comment provided by engineer. */
+"There has been an error or you don't have the Facebook app installed"="There has been an error or you don't have the Facebook app installed";
+
+/* Too long */
+"Too long"="Too long";
+
+/* Translate */
+"Translate"="Translate";
+
+/* Translate something to be read! */
+"Translate something to be read!"="Translate something to be read!";
+
+/* Translating... */
+"Translating..."="Translating...";
+
+/* Translation Error! */
+"Translation Error!"="Translation Error!";
+
+/* No comment provided by engineer. */
+"Translator"="Translator";
+
+/* Profile */
+"Unblock user"="Unblock user";
+
+/* No comment provided by engineer. */
+"Unblocking user..."="Unblocking user...";
+
+/* No comment provided by engineer. */
+"Unhandled exception"="Unhandled exception";
+
+/* Updating database... */
+"Updating database..."="Updating database...";
+
+/* No comment provided by engineer. */
+"Use GPS? (off: center the map \nwhere you wish to be shown)"="Use GPS? (off: center the map \nwhere you wish to be shown)";
+
+/* No comment provided by engineer. */
+"Use a name, language or both in order to look for available chatrooms"="Use a name, language or both in order to look for available chatrooms";
+
+/* No comment provided by engineer. */
+"Use at least one of the search options in order to look for for other users"="Use at least one of the search options in order to look for for other users";
+
+/* Use at least one search option! */
+"Use at least one search option!"="Use at least one search option!";
+
+/* No comment provided by engineer. */
+"User blocked!"="User blocked!";
+
+/* No comment provided by engineer. */
+"User deleted!"="User deleted!";
+
+/* username for sign up */
+"Username"="Username";
+
+/* No comment provided by engineer. */
+"Username & Photo"="Username & Photo";
+
+/* Users on the map */
+"Users on the map"="Users on the map";
+
+/* No comment provided by engineer. */
+"Vibrate"="Vibrate";
+
+/* When receiving a message */
+"When receiving a message"="When receiving a message";
+
+/* When you have translated something, by tapping this button, you can copy that text to the chat windows. */
+"When you have translated something, by tapping this button, you can copy that text to the chat windows."="When you have translated something, by tapping this button, you can copy that text to the chat windows.";
+
+/* Whole world */
+"Whole world"="Whole world";
+
+/* No comment provided by engineer. */
+"Would you like to connect to Facebook to find your friends who are in Lext Talk?"="Would you like to connect to Facebook and find your friends who are in Lext Talk?";
+
+/* No comment provided by engineer. */
+"Would you like to have your contacts searched to find the people who are already in Lext Talk?"="Do you want us to search your address book to find your friends which are already in Lext Talk?";
+
+/* Write something to be read! */
+"Write something to be read!"="Write something to be read!";
+
+/* Write something to translate! */
+"Write something to translate!"="Write something to translate!";
+
+/* YES */
+"YES"="YES";
+
+/* No comment provided by engineer. */
+"Yes"="Yes";
+
+/* You are here! */
+"You are here!"="You are here!";
+
+/* No comment provided by engineer. */
+"You are not logged in"="You are not logged in";
+
+/* You are not signed in */
+"You are not signed in"="You are not signed in";
+
+/* No comment provided by engineer. */
+"You are trying to block yourself."="You are trying to block yourself.";
+
+/* No comment provided by engineer. */
+"You can only share on Facebook if you have the Facebook app installed"="You can only share on Facebook if you have the Facebook app installed";
+
+/* No comment provided by engineer. */
+"You can try to continue but the application may be unstable."="You can try to continue but the application may be unstable.";
+
+/* No comment provided by engineer. */
+"You can try to continue but the application may be unstable.\n\nDebug details follow:\n%@\n%@"="You can try to continue but the application may be unstable.\n\nDebug details follow:\n%1$@\n%2$@";
+
+/* No comment provided by engineer. */
+"You cannot block your own user!"="You cannot block your own user!";
+
+/* You cannot send a message to yourself! */
+"You cannot send a message to yourself!"="You cannot send a message to yourself!";
+
+/* You do are not chatting with anyone, so the text could not be moved to the chat window */
+"You do are not chatting with anyone, so the text could not be moved to the chat window"="You are not chatting with anyone, so the text could not be moved to the chat window";
+
+/* No comment provided by engineer. */
+"You either do not have a data connection at this time, or you have not configured Twitter in this device. You can do that in the Settings of your device, section Twitter"="You either do not have a data connection at this time, or you have not configured Twitter in this device. You can do that in the Settings of your device, section Twitter";
+
+/* No comment provided by engineer. */
+"You have already purchased \"remove ads\""="You have already purchased \"remove ads\"";
+
+/* You have already used %d translations. For the time being, you can use the translation feature with no restrictions */
+"You have already used %d translations. For the time being, you can use the translation feature with no restrictions"="You have already used %d translations. For the time being, you can use the translation feature with no restrictions";
+
+/* No comment provided by engineer. */
+"You have blocked this user, he won't be able to answer you. Are you sure you want to send him a message?"="You have blocked this user, he won't be able to answer you. Are you sure you want to send him a message?";
+
+/* No comment provided by engineer. */
+"You have to fill in both the username and password"="You have to fill in both the username and password";
+
+/* No comment provided by engineer. */
+"You have to fill the e-mail, username and password"="You have to fill the e-mail, username and password";
+
+/* You must be signed in in order to send messages to other users. */
+"You must be signed in in order to send messages to other users."="You must be signed in in order to send messages to other users.";
+
+/* You must be signed in in order to use the features of LextTalk. Creating an account is free! */
+"You must be signed in in order to use the features of LextTalk . Creating an account is free!"="You must be signed in in order to use the features of LextTalk . Creating an account is free!";
+
+/* You must select at least a language and / or write a name */
+"You must select at least a language and / or write a name"="You must select at least a language and / or write a name";
+
+/* You must select at least the language and / or write a chatroom name */
+"You must select at least the language and / or write a chatroom name"="You must select at least the language and / or write a chatroom name";
+
+/* You must write a name and select a language in order to create the chat room */
+"You must write a name and select a language in order to create the chat room"="You must write a name and select a language in order to create the chat room";
+
+/* No comment provided by engineer. */
+"Your contacts couldn't be searched."="Your contacts couldn't be searched.";
+
+/* Your mail account is not configured */
+"Your mail account is not configured"="Your mail account is not configured";
+
+/* Your message is limited to %d characters */
+"Your message is limited to %d characters"="Your message is limited to %d characters";
+
+/* Key for alert when requesting location */
+"location_request_alert_title"="Location Request";
+
+/* new */
+"new"="new";
+

@@ -1,0 +1,22 @@
+{
+  "name": "IQLocationManager",
+  "version": "0.0.4",
+  "summary": "Helper for getting user's device location",
+  "homepage": "http://gitlab.inqbarna.com/internal/iq-location-manager-ios",
+  "authors": {
+    "Nacho Sanchez": "nacho.sanchez@inqbarna.com",
+    "Héctor Marqués": "hector.marques@inqbarna.com"
+  },
+  "license": "commercial",
+  "platforms": {
+    "ios": "7.0",
+    "osx": "10.7"
+  },
+  "source": {
+    "git": "http://gitlab.inqbarna.com/internal/iq-location-manager-ios.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "IQLocationManager/*.{h,m}",
+  "frameworks": "CoreLocation",
+  "requires_arc": true
+}

@@ -1,0 +1,124 @@
+body,html {
+	background-color:#FFFFFF;
+    margin-left: 5px;
+	margin-right: 10px;
+	font-size: 11pt;
+    font-family: Verdana,sans-serif;
+	height: 100%;
+}
+h1 {
+    font-size: 1.4em;
+    color:#A9873B;
+}
+h2 {
+    font-size: 1.0em;
+    color:#A9873B;
+}
+a {
+    color:#A9873B;
+}
+
+img {
+	border: none;
+}
+
+/* Table */
+th {
+    text-align: left;
+}
+td, th {
+ /*   padding-right: 5px;*/
+}
+
+/* style form */
+form {
+	font-size: 8pt;
+/*	position: absolute;*/
+}
+
+
+form dd {
+	/*margin-top: 10px;
+    margin-left: 20px;
+    float: left;   */
+	margin:0 0 0px 0px; padding:0;
+}
+
+form dt {
+	margin-top: 6px;
+	margin-bottom: 4px;
+    width: 100%;
+ /*   display: block;*/
+ /*  float: left;*/
+   /* clear: left;*/
+}
+
+form dt label{	
+	margin-top: 8px;
+    width: 100%;
+	color: black;
+}
+
+form dd input, textarea, select {
+	border:1px solid #A9873B;
+	width: 100%;
+}
+
+form dd #image{
+	width: 40%;
+	align: center;
+}
+
+form #submitbutton {
+	float: left;
+   /* margin-left: 100px;*/
+}
+
+/* classes */
+
+/*
+.textRight{	
+	text-align:right;
+}
+
+.textCenter{	
+	text-align:center;
+}
+
+.formFieldLong {
+  width: 600px;
+}
+
+.formFieldMiddle {
+  width: 400px;
+}
+
+.formFieldShort {
+  width: 200px;
+}*/
+
+.description {
+  margin-top: 1px;
+  font-size: 8pt;
+  /*background-color: red*/;
+  color: grey;
+  width: 100%;
+ /* position: absolute;
+  top: 0;*/
+}
+
+.errors {
+  font-size: 6pt;
+  color: red;
+}
+
+#navigationBar {
+  /*text-align: center;*/
+  /*width: 400px;*/
+  font-size: 14pt;
+}
+
+#navigationBar a{
+  /*color:#3F3F3F;*/
+  text-decoration:none;
+}

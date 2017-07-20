@@ -1,0 +1,5 @@
+#define BUILD_REVISION @""
+#define BUILD_BRANCH @""
+#define DIRTY_BIT 0
+#define BUNDLE_VERSION @"0"
+#define BUILD_DATE @"2017-07-20T06:28:01Z"

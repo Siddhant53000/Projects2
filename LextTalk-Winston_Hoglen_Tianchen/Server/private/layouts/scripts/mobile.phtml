@@ -1,0 +1,21 @@
+<?php 
+$this->headMeta()->appendHttpEquiv('Content-Type', 'text/html;charset=utf-8');
+echo $this->doctype(); ?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
+    <head>
+        <?php echo $this->headMeta(); ?>
+        <?php echo $this->headTitle(); ?>
+        <?php
+        echo '<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">';
+        echo $this->headLink()->appendStylesheet($this->baseUrl().'/css/siteMobile.css');
+        ?>
+    </head>
+    <body>
+        <div id="page">
+            <div id="content" class="content">
+                <h2><?php echo $this->escape($this->title); ?></h2>
+                <?php echo $this->layout()->content; ?>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,26 @@
+#!/bin/sh
+
+TARGET_PLIST="${TARGET_BUILD_DIR}/${INFOPLIST_PATH}"
+PRODUCT_PLIST="${BUILT_PRODUCTS_DIR}/${WRAPPER_NAME}.dSYM/Contents/Info.plist"
+
+echo "Target plist: $TARGET_PLIST"
+echo "Product plist: $PRODUCT_PLIST"
+
+BUNDLE_VERSION=`git log --pretty=format:'' --all | wc -l | sed -e 's/^[[:space:]]*//'`
+
+echo "Updating CFBundleVersion to $BUNDLE_VERSION."
+/usr/libexec/PlistBuddy -c "Set :CFBundleVersion $BUNDLE_VERSION" "$TARGET_PLIST"
+/usr/libexec/PlistBuddy -c "Set :CFBundleVersion $BUNDLE_VERSION" "$PRODUCT_PLIST"
+
+TARGET_ROOT_PLIST="${TARGET_BUILD_DIR}/${WRAPPER_NAME}/Settings.bundle/Root.plist"
+PRODUCT_ROOT_PLIST="${BUILT_PRODUCTS_DIR}/${WRAPPER_NAME}.dSYM/Contents/Settings.bundle/Root.plist"
+
+MARKER="__version_marker__"
+BUNDLE_SHORT_VERSION=$(/usr/libexec/PlistBuddy -c "Print :CFBundleShortVersionString" "$TARGET_PLIST")
+BUNDLE_VERSION=$(/usr/libexec/PlistBuddy -c "Print :CFBundleVersion" "$TARGET_PLIST")
+VERSION_STRING="${BUNDLE_SHORT_VERSION} (${BUNDLE_VERSION})"
+
+echo "Updating Root.plist: ${TARGET_ROOT_PLIST}"
+sed -e "s/${MARKER}/${VERSION_STRING}/g" $TARGET_ROOT_PLIST > tmp.dat
+#cat tmp.dat
+mv tmp.dat $TARGET_ROOT_PLIST

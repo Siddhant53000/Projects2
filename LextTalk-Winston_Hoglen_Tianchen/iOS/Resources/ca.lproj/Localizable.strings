@@ -1,0 +1,713 @@
+// Strings file generated with App Translator 1.2
+// Project: Lext Talk
+// Language: ca
+// Date: lun oct 26 21:08:38 2015
+
+/* %@ did not make its location available to LextTalk yet. */
+"%@ did not make its location available to LextTalk yet."="%@ encara no ha fet la seva ubicació disponible a LextTalk.";
+
+/* No comment provided by engineer. */
+"%d"="%d";
+
+/* %d Km */
+"%d Km"="%d Km";
+
+/* %d Translations! */
+"%d Translations!"="%d Traduccions!";
+
+/* %d accesses */
+"%d accesses"="%d accessos";
+
+/* %d followers (%2.1f\%%) */
+"%d followers (%2.1f\%%)"="%d seguidors (%2.1f\%%)";
+
+/* %d message */
+"%d message"="%d missatge";
+
+/* %d messages */
+"%d messages"="%d missatges";
+
+/* %d messages (%d unread) */
+"%d messages (%d unread)"="%d missatges (%d no llegits)";
+
+/* No comment provided by engineer. */
+"%d user"="%d usuari";
+
+/* No comment provided by engineer. */
+"%d users"="%d usuaris";
+
+/* No comment provided by engineer. */
+"(new) %d"="(nou) %d";
+
+/* No comment provided by engineer. */
+"+FB"="+FB";
+
+/* Added! */
+"Added!"="Afegit!";
+
+/* All */
+"All"="Tots";
+
+/* No comment provided by engineer. */
+"Already have\nan account"="Ja tinc compte";
+
+/* No comment provided by engineer. */
+"Already purchased!"="Ja ho tens comprat!";
+
+/* No comment provided by engineer. */
+"An e-mail with a new password has been sent to you. You should receive it in a few moments"="Hem enviat una nova contrasenya al teu email.";
+
+/* No comment provided by engineer. */
+"Are you learning or do you speak Catalan?"="Estàs aprenent o parles Català?";
+
+/* Are you sure ? */
+"Are you sure ?"="Estàs segur?";
+
+/* Profile */
+"Block user"="Bloquejar usuari";
+
+/* No comment provided by engineer. */
+"Blocking user..."="Bloquejant usuari...";
+
+/* Cancel */
+"Cancel"="Cancel·lar";
+
+/* Cannot compose an email */
+"Cannot compose an email"="No es pot compondre un e-mail";
+
+/* Cannot share by email */
+"Cannot share by email"="No es pot compartir per correu electrònic";
+
+/* Chat configuration */
+"Chat configuration"="Configuració del xat";
+
+/* Chat rooms */
+"Chat rooms"="Sales de xat";
+
+/* Chat with %@ */
+"Chat with %@"="%@";
+
+/* Chatroom language */
+"Chatroom language"="Idioma de la sala de xat";
+
+/* Chats */
+"Chats"="Xats";
+
+/* No comment provided by engineer. */
+"Chats & Chatrooms"="Chats";
+
+/* Choose name, lang */
+"Choose name, lang"="Escull nom, idioma";
+
+/* Choose one */
+"Choose one"="Tria un";
+
+/* Close */
+"Close"="Tancar";
+
+/* No comment provided by engineer. */
+"Complete your profile!"="Completa el teu perfil!";
+
+/* Configuration */
+"Configuration"="Configuració";
+
+/* No comment provided by engineer. */
+"Configure Twitter!"="Configura Twitter!";
+
+/* Sign up */
+"Connect Later"="Connecta't més tard";
+
+/* No comment provided by engineer. */
+"Connect to Facebook"="Trobar al Facebook";
+
+/* No comment provided by engineer. */
+"Contacts"="Contactes";
+
+/* No comment provided by engineer. */
+"Continue"="Continuar";
+
+/* Could not process the request */
+"Could not process the request"="No s'ha pogut processar la sol·licitud";
+
+/* Creating... */
+"Creating..."="Creant...";
+
+/* Profile */
+"DELETE PROFILE"="ESBORRA PERFIL";
+
+/* Data not available */
+"Data not available"="Dades no disponibles";
+
+/* Delete */
+"Delete"="Suprimir";
+
+/* Delete chat with %@ */
+"Delete chat with %@"="Suprimir xat amb %@";
+
+/* No comment provided by engineer. */
+"Deleting user..."="Esborrant usuari...";
+
+/* No comment provided by engineer. */
+"Detecting language..."="Detectant idioma...";
+
+/* Dictionaries */
+"Dictionaries"="Diccionaris";
+
+/* No comment provided by engineer. */
+"Do you really wish to delete your profile?"="Estàs segur que vols esborrar el teu perfil?";
+
+/* Done! */
+"Done!"="Fet!";
+
+/* email for sign up */
+"E-Mail"="Correu";
+
+/* Profile */
+"EDIT PROFILE"="EDITAR PERFIL";
+
+/* No comment provided by engineer. */
+"Edit"="Editar";
+
+/* No comment provided by engineer. */
+"Error"="Error";
+
+/* No comment provided by engineer. */
+"Error or Facebook app  not installed!"="Error o app de Facebook no instal·lada!";
+
+/* Events */
+"Events"="Esdeveniments";
+
+/* No comment provided by engineer. */
+"Facebook app  not installed!"="App de Facebook no instal·lada!";
+
+/* No comment provided by engineer. */
+"Fill in the e-mail you used to sign up. An e-mail with a new password will be sent to that e-mail"="Introdueix l'email amb el que et vas registrar. T'enviarem una nova contrasenya";
+
+/* No comment provided by engineer. */
+"Fill in your e-mail"="Introdueix el teu email";
+
+/* No comment provided by engineer. */
+"Filter"="Filtrar";
+
+/* No comment provided by engineer. */
+"Find your friends!"="Troba els teus amics";
+
+/* No comment provided by engineer. */
+"Finding who in your contacts  are using Lext Talk requires permission. You can authorise Lext Talk to do that in your device settings: Privacy / Contacts"="Lext Talk necessita accés als teus contactes per a que puguis parlar amb ells més fàcilment. Pots autoritzar-ho a Configuració/Privadesa/Contactes";
+
+/* No comment provided by engineer. */
+"GPS not available"="GPS no disponible";
+
+/* Sign up */
+"Get Started"="Inicia";
+
+/* Sign up */
+"Get Started with Facebook"="Accedeix amb Facebook";
+
+/* Sign in */
+"Get Started?"="Vols un compte?";
+
+/* Getting audio file... */
+"Getting audio file..."="Aconseguir arxiu d'àudio...";
+
+/* Getting chatrooms... */
+"Getting chatrooms..."="Aconseguint sales de xat...";
+
+/* No comment provided by engineer. */
+"Getting user profile..."="Rebent perfil d'usuari...";
+
+/* Sign up */
+"Have an account?"="Tens un compte?";
+
+/* No comment provided by engineer. */
+"Hide keyboard"="Amagar el teclat";
+
+/* No comment provided by engineer. */
+"I'd like to create\nan account"="Vull crear \nun compte";
+
+/* No comment provided by engineer. */
+"Invalid product"="Producte invàlid";
+
+/* No comment provided by engineer. */
+"Invalid transaction"="Transacció invàlida";
+
+/* No comment provided by engineer. */
+"Join"="Uneix-te";
+
+/* No comment provided by engineer. */
+"Joined chat rooms"="Les meves sales de xat";
+
+/* Just the map */
+"Just the map"="Només al mapa";
+
+/* Language */
+"Language"="Idioma";
+
+/* Languages */
+"Languages"="Idiomes";
+
+/* No comment provided by engineer. */
+"Last con on: %@"="Última conn el: %@";
+
+/* No comment provided by engineer. */
+"Last connection on: "="Última connexió el:";
+
+/* Last update: %@ */
+"Last update: %@"="Última actualització: %@";
+
+/* Learning */
+"Learning"="Aprenent";
+
+/* No comment provided by engineer. */
+"Learning Languages"="Estic aprenent";
+
+/* No comment provided by engineer. */
+"Learning languages with Lext Talk is great!"="Aprendre idiomes amb Lext Talk és genial!";
+
+/* No comment provided by engineer. */
+"Leave"="Abandonar";
+
+/* LextTalk Help */
+"LextTalk Help"="Ajuda de LextTalk";
+
+/* LextTalk server error */
+"LextTalk server error"="Error de servidor de LextTalk";
+
+/* LextTalk would like to use your location to place you on the map */
+"LextTalk would like to use your location to place you on the map"="LextTalk vol usar la teva localització per situar-te al mapa";
+
+/* LextTalk would like to use your location to place you on the map. Later, in your propile, you can choose a place from a map where you will be shown if you prefer not to use your real location */
+"LextTalk would like to use your location to place you on the map. Later, in your propile, you can choose a place from a map where you will be shown if you prefer not to use your real location"="LextTalk vol usar la teva localització per posar-te al mapa. Si prefereixes no usar la teva localització real, des del teu perfil d'usuari pots triar la localització on et vols mostrar";
+
+/* Load more messages */
+"Load more messages"="Carregar més missatges";
+
+/* Locate */
+"Locate"="Localitzar";
+
+/* Location unknown */
+"Location unknown"="Ubicació desconeguda";
+
+/* No comment provided by engineer. */
+"Logging out..."="Sortint...";
+
+/* No comment provided by engineer. */
+"Logging with Facebook..."="Accedint amb Facebook...";
+
+/* Logging... */
+"Logging..."="Connectant...";
+
+/* Map */
+"Map"="Mapa";
+
+/* No comment provided by engineer. */
+"Map does not show your real location"="El mapa no mostra la teva posició real";
+
+/* No comment provided by engineer. */
+"Map shows your real location"="El mapa mostra la teva posició real";
+
+/* More info needed! */
+"More info needed!"="Fa falta més informació!";
+
+/* My Profile */
+"My Profile"="El meu perfil";
+
+/* NO */
+"NO"="NO";
+
+/* Name */
+"Name"="Nom";
+
+/* Native */
+"Native"="Natiu";
+
+/* Network Error */
+"Network Error"="Error de red";
+
+/* Network Error! */
+"Network Error!"="Error de red!";
+
+/* Network error */
+"Network error"="Error de red";
+
+/* No comment provided by engineer. */
+"Network error!"="Error de xarxa!";
+
+/* No */
+"No"="No";
+
+/* No active chat! */
+"No active chat!"="No hi ha xats actius!";
+
+/* No comment provided by engineer. */
+"No contacts found"="No hem trobat res";
+
+/* No internet connection is available */
+"No internet connection is available"="No hi ha connexió a Internet";
+
+/* No text! */
+"No text!"="Falta text";
+
+/* No comment provided by engineer. */
+"None of your contacts seem to be using Lext Talk. Tell them about it!"="No hem trobat a cap amic teu a Lext Talk. Convidal's i parla amb ells!";
+
+/* OK */
+"OK"="OK";
+
+/* No comment provided by engineer. */
+"Other chat rooms"="Altres sales de xat";
+
+/* Password */
+"Password"="Contrasenya";
+
+/* No comment provided by engineer. */
+"Password reset"="Nova contrasenya";
+
+/* No comment provided by engineer. */
+"Permission needed"="Atenció!";
+
+/* No comment provided by engineer. */
+"Play sound"="Reproduir so";
+
+/* No comment provided by engineer. */
+"Please make sure you have data coverage or wi-fi. Error: %@"="Si us plau, assegura't que tens cobertura o Wi-Fi. Error: %@";
+
+/* No comment provided by engineer. */
+"Please, enable them in Settings app"="Si us plau, activa'ls a la Configuració";
+
+/* Please, fill in the box with the text you wish to be read */
+"Please, fill in the box with the text you wish to be read"="Si us plau, omple la caixa amb el text que vols sentir";
+
+/* Please, fill in the box with the text you wish to translate */
+"Please, fill in the box with the text you wish to translate"="Si us plau, omple la caixa amb el text que vols traduir";
+
+/* Please, select both the laguage you are translating from, and the one you are translating to. */
+"Please, select both the laguage you are translating from, and the one you are translating to."="Si us plau, selecciona la llengua de la que vols traduir i a la que vols que es tradueixi.";
+
+/* No comment provided by engineer. */
+"Please, select the languages you speak and the ones you are learning"="Si us plau, selecciona els idiomes que parles i els que estàs aprenent";
+
+/* Please, translate something before you try to read it */
+"Please, translate something before you try to read it"="Si us plau, tradueix alguna cosa abans d'intentar llegir-la";
+
+/* Please, try again in some minutes */
+"Please, try again in some minutes"="Si us plau, prova una altra vegada en uns minuts";
+
+/* No comment provided by engineer. */
+"Please, write your username (the one other users will see)."="Si us plau, escriu el teu nom d'usuari (el que veuran els altres)";
+
+/* Problem with the translation service! */
+"Problem with the translation service!"="Problema en el servei de traducció!";
+
+/* No comment provided by engineer. */
+"Profile"="Perfil";
+
+/* No comment provided by engineer. */
+"Purchases"="Compres";
+
+/* No comment provided by engineer. */
+"Purchases are not enabled"="Les compres no estan habilitades";
+
+/* No comment provided by engineer. */
+"Purchasing remove ads..."="Comprant Treure Anuncis...";
+
+/* No comment provided by engineer. */
+"Quit"="Sortir";
+
+/* Register to get full access */
+"Register to get full access"="Registra't per obtenir accés complet";
+
+/* No comment provided by engineer. */
+"Remember password"="Has oblidat la teva contrasenya?";
+
+/* No comment provided by engineer. */
+"Remove"="Treure";
+
+/* No comment provided by engineer. */
+"Remove ads"="Treure Anuncis";
+
+/* No comment provided by engineer. */
+"Restore purchases"="Recuperar compres";
+
+/* No comment provided by engineer. */
+"Restoring purchases..."="Recuperant compres...";
+
+/* Restoring session */
+"Restoring session"="Recuperant sessió";
+
+/* Profile */
+"SAVE PROFILE"="GUARDAR PERFIL";
+
+/* Profile */
+"SELECT"="SELECCIONA";
+
+/* No comment provided by engineer. */
+"Saving profile..."="Guardant perfil...";
+
+/* Search */
+"Search"="Cercar";
+
+/* Search Chatrooms */
+"Search Chatrooms"="Cerca sales de xat";
+
+/* Search Result */
+"Search Result"="Resultat de la cerca";
+
+/* Search chat by name */
+"Search chat by name"="Cercar xat pel nom";
+
+/* Searching... */
+"Searching..."="Cercant...";
+
+/* Select language */
+"Select language"="Selecciona l'idioma";
+
+/* Select languages */
+"Select languages"="Selecciona els idiomes";
+
+/* No comment provided by engineer. */
+"Select photo"="Selecciona foto";
+
+/* Select the languages! */
+"Select the languages!"="Selecciona els idiomes!";
+
+/* Send */
+"Send"="Enviar";
+
+/* Profile */
+"Send message"="Enviar missatge";
+
+/* Sign in */
+"Sign in"="Accedeix";
+
+/* Sign in now! */
+"Sign in now!"="Accedeix ara!";
+
+/* Sign up */
+"Sign up"="Registra't";
+
+/* Sign up */
+"Skip"="Saltar";
+
+/* No comment provided by engineer. */
+"Some user details could not be downloaded, please, try again"="No s'ha pogut descarregar tota la informació. Si us plau, torna-ho a intentar";
+
+/* Speaking */
+"Speaking"="Parlant";
+
+/* No comment provided by engineer. */
+"Speaking Languages"="Parlo";
+
+/* Statistics */
+"Statistics"="Estadístiques";
+
+/* No comment provided by engineer. */
+"Status"="Estat";
+
+/* slogan */
+"Talk to the world"="Talk to the world";
+
+/* No comment provided by engineer. */
+"Tell your friends about Lext Talk!"="Comparteix Lext Talk amb els teus amics!";
+
+/* No comment provided by engineer. */
+"Thanks for removing the ads"="Gràcies per treure els anuncis";
+
+/* No comment provided by engineer. */
+"Thanks for your purchase!"="Gràcies per la teva compra!";
+
+/* No comment provided by engineer. */
+"The GPS could not be used to center the map around your current position (GPS not found or Lext Talk is not authorised to use it). Please, center the map manually to the location where you will be shown to other users, or change your settings"="El GPS no ha pogut centrar el mapa al voltant de la teva posició (no es troba el GPS o Lext Talk no està autoritzat per utilitzar-lo). Si us plau, centra el mapa manualment a la posició on vulguis que et vegin els altres usuaris, o canvia la configuració.";
+
+/* The operation could not be performed: */
+"The operation could not be performed: "="No s'ha pogut realitzar l'operació: ";
+
+/* The text could not be read. Try again in a few minutes. The translation servide might be down */
+"The text could not be read. Try again in a few minutes. The translation servide might be down"="No s'ha pogut llegir el text. Prova una altra vegada en uns quants minuts. El servidor de traducció podria haver caigut";
+
+/* The text could not be translated. Try again in a few minutes. The translation servide might be down */
+"The text could not be translated. Try again in a few minutes. The translation servide might be down"="El text no es pot traduir. Prova una altra vegada en uns quants minuts. El servidor de traducció podria haver caigut";
+
+/* No comment provided by engineer. */
+"The user information could not be downloaded"="No s'ha pogut descarregar la informació d'usuari.";
+
+/* No comment provided by engineer. */
+"The user information for one of your chats could not be downloaded"="No s'ha pogut descarregar la informació d'usuari per a un dels teus xats.";
+
+/* No comment provided by engineer. */
+"The user profile image could not be downloaded"="No s'ha pogut descarregar la imatge de perfil";
+
+/* No comment provided by engineer. */
+"The user you are trying to write to has deleted his account"="Uuups! L'usuari al que has escrit ja no es troba a Lext Talk";
+
+/* No comment provided by engineer. */
+"The user's profile, whose information you are trying to retrieve, has been deleted."="El perfil d'usuari que volies descarregar ha estat esborrat.";
+
+/* No comment provided by engineer. */
+"There has been an error or you don't have the Facebook app installed"="Hi ha un error o no tens l'app de Facebook instal·lada";
+
+/* Too long */
+"Too long"="Massa llarg";
+
+/* Translate */
+"Translate"="Traduir";
+
+/* Translate something to be read! */
+"Translate something to be read!"="Traduir alguna cosa per que sigui llegit!";
+
+/* Translating... */
+"Translating..."="Traduint...";
+
+/* Translation Error! */
+"Translation Error!"="Error de traducció!";
+
+/* No comment provided by engineer. */
+"Translator"="Traductor";
+
+/* Profile */
+"Unblock user"="Desbloquejar usuari";
+
+/* No comment provided by engineer. */
+"Unblocking user..."="Desbloquejant usuari...";
+
+/* No comment provided by engineer. */
+"Unhandled exception"="Excepció no controlada";
+
+/* Updating database... */
+"Updating database..."="Actualitzant base de dades...";
+
+/* No comment provided by engineer. */
+"Use GPS? (off: center the map \nwhere you wish to be shown)"="Utilitzar GPS? (no: centra el mapa \non vulguis que et vegin)";
+
+/* No comment provided by engineer. */
+"Use a name, language or both in order to look for available chatrooms"="Utilitza un nom, idioma o ambdós per trobar sales de xat disponibles";
+
+/* No comment provided by engineer. */
+"Use at least one of the search options in order to look for for other users"="Activa com a mínim una de les opcions de cerca per tal de cercar altres usuaris";
+
+/* Use at least one search option! */
+"Use at least one search option!"="Utilitza com a mínim una opció de cerca!";
+
+/* No comment provided by engineer. */
+"User blocked!"="Usuari bloquejat!";
+
+/* No comment provided by engineer. */
+"User deleted!"="Usuari esborrat!";
+
+/* username for sign up */
+"Username"="Nom d'usuari";
+
+/* No comment provided by engineer. */
+"Username & Photo"="Nom d'usuari & Foto";
+
+/* Users on the map */
+"Users on the map"="Usuaris al mapa";
+
+/* No comment provided by engineer. */
+"Vibrate"="Vibrar";
+
+/* When receiving a message */
+"When receiving a message"="Al rebre un missatge";
+
+/* When you have translated something, by tapping this button, you can copy that text to the chat windows. */
+"When you have translated something, by tapping this button, you can copy that text to the chat windows."="Quan hagis traduït alguna cosa, prement aquest botó pots copiar el text a les finestres de xat.";
+
+/* Whole world */
+"Whole world"="Món sencer";
+
+/* No comment provided by engineer. */
+"Would you like to connect to Facebook to find your friends who are in Lext Talk?"="Vols connectar amb Facebook i cercar quins amics estan a Lext Talk?";
+
+/* No comment provided by engineer. */
+"Would you like to have your contacts searched to find the people who are already in Lext Talk?"="Vols que cerquem quins dels teus contactes ja estan a Lext Talk?";
+
+/* Write something to be read! */
+"Write something to be read!"="Escriu alguna cosa per que sigui llegida!";
+
+/* Write something to translate! */
+"Write something to translate!"="Escrigui alguna cosa per traduir-la!";
+
+/* YES */
+"YES"="SI";
+
+/* No comment provided by engineer. */
+"Yes"="S";
+
+/* You are here! */
+"You are here!"="Ets aquí!";
+
+/* No comment provided by engineer. */
+"You are not logged in"="No estàs loguejat";
+
+/* You are not signed in */
+"You are not signed in"="No estàs registrat";
+
+/* No comment provided by engineer. */
+"You are trying to block yourself."="Estàs intentant bloquejar-te a tu mateix.";
+
+/* No comment provided by engineer. */
+"You can only share on Facebook if you have the Facebook app installed"="Només pots compartir a Facebook si tens l'app de Facebook instal·lada";
+
+/* No comment provided by engineer. */
+"You can try to continue but the application may be unstable."="Pots provar de seguir, però l'aplicació pot ser inestable.";
+
+/* No comment provided by engineer. */
+"You can try to continue but the application may be unstable.\n\nDebug details follow:\n%@\n%@"="Pots provar de seguir, però l'aplicació pot ser inestable.\n\nDetalls de depuració:\n%@\n%@";
+
+/* No comment provided by engineer. */
+"You cannot block your own user!"="No pots bloquejar-te a tu mateix!";
+
+/* You cannot send a message to yourself! */
+"You cannot send a message to yourself!"="No pots enviar-te un missatge a tu mateix!";
+
+/* You do are not chatting with anyone, so the text could not be moved to the chat window */
+"You do are not chatting with anyone, so the text could not be moved to the chat window"="No estàs xatejant amb ningú, per tant el xat no pot ser mogut a la finestra de xat";
+
+/* No comment provided by engineer. */
+"You either do not have a data connection at this time, or you have not configured Twitter in this device. You can do that in the Settings of your device, section Twitter"="No tens una connexió en aquests moments, o no has configurat Twitter en aquest dispositiu. Pots fer-ho desde la Configuració";
+
+/* No comment provided by engineer. */
+"You have already purchased \"remove ads\""="Ja tenies comprat \"treure anuncis\"";
+
+/* You have already used %d translations. For the time being, you can use the translation feature with no restrictions */
+"You have already used %d translations. For the time being, you can use the translation feature with no restrictions"="Ja has utilitzat %d traduccions. Actualment, pots usar aquest servei sense cap restricció";
+
+/* No comment provided by engineer. */
+"You have blocked this user, he won't be able to answer you. Are you sure you want to send him a message?"="Has bloquejat aquest usuari, no et podrà contestar. Estàs segur que vols enviar-li un missatge?";
+
+/* No comment provided by engineer. */
+"You have to fill in both the username and password"="Has d'omplir el nom d'usuari i la contrasenya";
+
+/* No comment provided by engineer. */
+"You have to fill the e-mail, username and password"="Has d'omplir el correu, el nom d'usuari i la contrasenya";
+
+/* You must be signed in in order to send messages to other users. */
+"You must be signed in in order to send messages to other users."="Has d'estar registrat per enviar missatges a altres usuaris.";
+
+/* You must be signed in in order to use the features of LextTalk. Creating an account is free! */
+"You must be signed in in order to use the features of LextTalk . Creating an account is free!"="Has d'estar registrat per usar LextTalk. Fer-ho és gratuït!";
+
+/* You must select at least a language and / or write a name */
+"You must select at least a language and / or write a name"="Has de seleccionar com a mínim una llengua i / o escriure un nom";
+
+/* You must select at least the language and / or write a chatroom name */
+"You must select at least the language and / or write a chatroom name"="Has de seleccionar com a mínim l'idioma i / o escriure el nom de la sala de xat";
+
+/* You must write a name and select a language in order to create the chat room */
+"You must write a name and select a language in order to create the chat room"="Has d'escriure un nom i seleccionar un idioma per a crear la sala de xat";
+
+/* No comment provided by engineer. */
+"Your contacts couldn't be searched."="No s'ha pogut cercar als teus contactes";
+
+/* Your mail account is not configured */
+"Your mail account is not configured"="El seu compte de correu no està configurat";
+
+/* Your message is limited to %d characters */
+"Your message is limited to %d characters"="El teu missatge està limitat a %d caràcters";
+
+/* Key for alert when requesting location */
+"location_request_alert_title"="Petició Ubicació";
+
+/* new */
+"new"="nou";
+

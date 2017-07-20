@@ -1,0 +1,41 @@
+<div id="navigationBar" class="navigationBar">
+<a href="<?php echo $this->url(array('controller'=>'auth', 
+        'action'=>'index'),null, true);?>" class='navmenu<?php 
+	if(Custom_NavigationHelper::isLinkCurrentPage('auth')) echo ' act';?>'>Account</a> |
+
+<a href="<?php echo $this->url(array('controller'=>'users', 
+        'action'=>'index'),null, true);?>" class='navmenu<?php 
+	if(Custom_NavigationHelper::isLinkCurrentPage('auth')) echo ' act';?>'>Users</a> |
+
+<a href="<?php echo $this->url(array('controller'=>'events',
+        'action'=>'index'),null, true);?>" class='navmenu<?php
+	if(Custom_NavigationHelper::isLinkCurrentPage('events')) echo ' act';?>'>Events</a> |
+
+<a href="<?php echo $this->url(array('controller'=>'languages',
+        'action'=>'index'),null, true);?>" class='navmenu<?php
+	if(Custom_NavigationHelper::isLinkCurrentPage('languages')) echo ' act';?>'>Languages</a> |
+
+<a href="<?php echo $this->url(array('controller'=>'nativelanguages',
+        'action'=>'index'),null, true);?>" class='navmenu<?php
+	if(Custom_NavigationHelper::isLinkCurrentPage('nativelanguages')) echo ' act';?>'>Native languages</a> |
+
+<a href="<?php echo $this->url(array('controller'=>'learninglanguages',
+        'action'=>'index'),null, true);?>" class='navmenu<?php
+	if(Custom_NavigationHelper::isLinkCurrentPage('learninglanguages')) echo ' act';?>'>Learning languages</a> |
+
+<a href="<?php echo $this->url(array('controller'=>'messages',
+        'action'=>'index'),null, true);?>" class='navmenu<?php
+	if(Custom_NavigationHelper::isLinkCurrentPage('messages')) echo ' act';?>'>Messages</a> |
+
+<a href="<?php echo $this->url(array('controller'=>'sessions',
+        'action'=>'index'),null, true);?>" class='navmenu<?php
+	if(Custom_NavigationHelper::isLinkCurrentPage('sessions')) echo ' act';?>'>Sessions</a> |
+
+<a href="<?php echo $this->url(array('controller'=>'userstoevents',
+        'action'=>'index'),null, true);?>" class='navmenu<?php
+	if(Custom_NavigationHelper::isLinkCurrentPage('userstoevents')) echo ' act';?>'>Users to events</a> |
+
+<a href="<?php echo $this->url(array('controller'=>'positions',
+        'action'=>'index'),null, true);?>" class='navmenu<?php
+	if(Custom_NavigationHelper::isLinkCurrentPage('positions')) echo ' act';?>'>Positions</a>
+</div>

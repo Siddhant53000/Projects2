@@ -1,0 +1,14 @@
+<?php 
+if (!$this->logged) {
+    echo $this->messages;
+    echo '<br/>';
+    echo $this->form;
+} else {
+    echo $this->messages;
+    echo '<br/>';
+    ?>
+<br/>
+<a href='<?php echo $this->url(array('action'=>'create')); ?>'>Create the database from scratch</a> <br/>
+<a href='<?php echo $this->url(array('action'=>'insert')); ?>'>Insert necessary information</a> <br/>
+<a href='<?php echo $this->url(array('action'=>'delete')); ?>'>Delete database</a>
+    <?php } ?>

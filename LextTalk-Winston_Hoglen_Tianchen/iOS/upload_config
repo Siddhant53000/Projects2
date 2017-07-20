@@ -1,0 +1,10 @@
+appname='LextTalk'
+target='LextTalk'
+icon_file=images/Icon.png
+config='Release'
+sdk='iphoneos5.1'
+#optional, those could be extracted from xcodeproj
+#bundleidentifier='com.sanoen.sanoen1'
+#signature='Nacho Sanchez (WBXRJQ9DKF)'
+#provprofile='InQBarnaAccentureZurichProvProfile'
+#productname='FCBWorldTap'

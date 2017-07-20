@@ -1,0 +1,76 @@
+<?php 
+$this->headMeta()->appendHttpEquiv('Content-Type', 'text/html;charset=utf-8');
+//$device = new uagent_info();
+$this->headTitle()->setSeparator(' - ');
+$this->headTitle('Lextalk backend');
+
+echo $this->doctype(); 
+
+?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
+    <head>
+        <?php $this
+                ->headMeta()->appendHttpEquiv('Content-Type', 'text/html; charset=utf-8')
+                ->headMeta()->appendHttpEquiv('Content-Language', 'en-GB')
+                ->headMeta()->appendHttpEquiv('Cache-Control', 'public, no-transform, must-revalidate')
+                ->headMeta()->appendHttpEquiv('expires', date('r', time()))
+                ->headMeta()->appendHttpEquiv('Last-Modified', date('r', time()))
+                ->headMeta()->appendHttpEquiv('Pragma', 'no-cache')
+                ->headMeta()->appendHttpEquiv('description', '')
+                ->headMeta()->appendHttpEquiv('keywords', '')
+                ->headMeta()->appendHttpEquiv('robots', 'index, follow')
+                ?>
+
+        <?php
+        echo $this->headMeta();
+        echo $this->headTitle();
+        //if($this->jQuery()->isEnabled()) {
+        $this->jQuery()->addJavascriptFile($this->baseUrl().'/js/jquery-ui-timepicker-addon.js');
+        $this->jQuery()->addJavascriptFile($this->baseUrl().'/js/colorpicker.js');
+        $this->jQuery()->addJavascriptFile($this->baseUrl().'/js/jquery-ui-1.7.2.custom.min.js');
+        $this->jQuery()->addJavascriptFile($this->baseUrl().'/js/jHtmlArea-0.7.0.min.js');
+        $this->jQuery()->addstyleSheet($this->baseUrl().'/css/ui-lightness/jquery-ui.css');
+        $this->jQuery()->addstyleSheet($this->baseUrl().'/css/ui-lightness/jquery-ui-1.7.2.custom.css');
+        $this->jQuery()->addstyleSheet($this->baseUrl().'/css/colorpicker.css');
+        $this->jQuery()->addstyleSheet($this->baseUrl().'/css/jquery.wysiwyg.css');
+        $this->jQuery()->addstyleSheet($this->baseUrl().'/css/jHtmlArea.css');
+
+        echo $this->jQuery();
+        //}
+        if($this->GMaps()->isEnabled()) {
+            echo $this->GMaps();
+        }
+        ?>
+        <?php
+        echo $this->headLink()->appendStylesheet($this->baseUrl().'/css/site.css');
+        $backImage = $this->baseUrl().'/images/backContent.gif';
+        echo '<style type="text/css">
+		body {
+			background-color: #FFF;
+			background-image: url('.$backImage.');
+			background-repeat: no-repeat;
+			background-position: left top;
+		}
+		</style>';
+        ?>
+    </head>
+
+    <body >
+        <div id="page">
+            <div id="pageContent" class="pageContent">
+                <img src="/mobile/images/logo-bet.jpg"/>
+                <div id="content" class="content">
+                    <?php
+                    //if(Custom_Auth::authLevel()>0) {
+                    include PRIVATE_APPLICATION_PATH."/views/navigationBar.phtml";
+                    //}
+                    ?>
+                    <h1><?php echo $this->escape($this->title); ?></h1>
+                    <?php
+                    echo $this->layout()->content;
+                    ?>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

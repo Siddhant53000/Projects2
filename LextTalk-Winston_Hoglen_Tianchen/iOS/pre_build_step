@@ -1,0 +1,36 @@
+#!/bin/bash
+
+# hash of the commit
+REVISION=`git log --pretty=format:'%h' -n1`
+
+# indicates if the working copy is pristine
+DIRTY_BIT=0
+if [ `git diff HEAD | wc -c` -gt 0 ]
+then
+DIRTY_BIT=1
+if [ "$CONFIGURATION" == "AppStore" ]
+then
+echo "pre_build_step:13: error : Cannot build an AppStore binary with dirty code!!" 1>&2;
+exit -1
+fi
+fi
+
+
+# date of the build
+DATE=$(date -u +\"%Y-%m-%dT%H:%M:%SZ\")
+if [ "$CONFIGURATION" != "Debug" ]
+then
+git fetch
+fi
+# number of commits in the branch since its creation
+BUNDLE_VERSION=`git log --pretty=format:'' --all | wc -l | sed -e 's/^[[:space:]]*//'`
+BRANCH=`git rev-parse --abbrev-ref HEAD`
+
+echo "#define BUILD_REVISION @\"$REVISION\"" > version.h
+echo "#define BUILD_BRANCH @\"$BRANCH\"" >> version.h
+echo "#define DIRTY_BIT $DIRTY_BIT" >> version.h
+echo "#define BUNDLE_VERSION @\"$BUNDLE_VERSION\"" >> version.h
+echo "#define BUILD_DATE @$DATE" >> version.h
+
+# TODO activate the GIT HOOKS
+# ln -s iOS_pod/hooks/pre-commit .git/hooks/pre-commit
