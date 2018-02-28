@@ -1,6 +1,0 @@
-framework module Pods_UPLIFT {
-  umbrella header "Pods-UPLIFT-umbrella.h"
-
-  export *
-  module * { export * }
-}
