@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>245516614947-nrcnc1dvvo1763qhnsm5ks5me9sig04o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.245516614947-nrcnc1dvvo1763qhnsm5ks5me9sig04o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCahsVL-HssLzplFa-Nwhkspr4EAVs6bmg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>245516614947</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.harry.beyond.Uplift</string>
+	<key>PROJECT_ID</key>
+	<string>uplift-b597f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>uplift-b597f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:245516614947:ios:5d57fbdbd5f71d10</string>
+	<key>DATABASE_URL</key>
+	<string>https://uplift-b597f.firebaseio.com</string>
+</dict>
+</plist>
